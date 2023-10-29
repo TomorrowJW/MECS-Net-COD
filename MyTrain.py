@@ -89,7 +89,7 @@ def train():
         for i, data in enumerate(train_dataloader, start=1):  # 下标从1开始
             optimizer.zero_grad()  # 每一步都要将之前的梯度进行清零
 
-            images, gts, edges, gts_for_train = data
+            images, gts, edges = data
             images = images.to(cfg.device)
             gts = gts.to(cfg.device)
             edges = edges.to(cfg.device)
