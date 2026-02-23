@@ -89,11 +89,14 @@ please follow this the instructions in `MyEval.py` and just run it to generate t
 
 Please cite our paper if you find the work useful, thanks!
 	
-	@article{wu2023mask,
-	   title={Mask-and-Edge Co-Guided Separable Network for Camouflaged Object Detection},
-	   author={Wu, Jiesheng and Liang, Weiyun and Hao, Fangwei and Xu, Jing},
-	   journal={IEEE Signal Processing Letters},
-	   year={2023},
-	   publisher={IEEE}
-	}
+	@ARTICLE{10163250,
+	  author={Wu, Jiesheng and Liang, Weiyun and Hao, Fangwei and Xu, Jing},
+	  journal={IEEE Signal Processing Letters}, 
+	  title={Mask-and-Edge Co-Guided Separable Network for Camouflaged Object Detection}, 
+	  year={2023},
+	  volume={30},
+	  number={},
+	  pages={748-752}
+	  }
+
 **[⬆ back to top](#1-preface)**
